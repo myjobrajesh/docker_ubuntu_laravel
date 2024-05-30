@@ -1,5 +1,6 @@
 server {
-    listen 80 default;
+    listen 83 default;
+    #listen 80 default;
 
     root /var/www/app/public/;
     charset utf8;
